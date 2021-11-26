@@ -1,0 +1,108 @@
+body{
+    background-color: rgba(26, 23, 51, 0.767);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Times, serif
+}
+
+h4  {
+    margin-top: -20px;
+    padding-left: 70px;
+}
+
+
+i{
+    margin-top: -20px;
+    padding-left: 70px;
+}
+.icon{
+    
+    float: right;
+    margin-right: 70px;
+    margin-top: 10px;
+
+}
+.comment{
+    float: right;
+    margin-right: -80px;
+    margin-top: 20px;
+    width: 20px;
+}
+.class-link{
+    color:black;
+  
+    margin: 10%;
+    margin-top: 10px;
+
+}
+a{
+    color: lightslategray;
+    margin: 60px;
+}
+.class-recording{
+    color: black;
+  
+    margin: 10%;
+    margin-top: 10px;
+
+}
+
+.class-teams{
+    color: black;
+   
+    margin: 10%;
+    margin-top: 10px;
+
+}
+
+.doubt-section{
+    color: black;
+    width: 1000px; height: 200px; border: 1px solid black; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+table,td{
+    width:900px;
+    border: 2px solid; 
+    margin-left: 40px;
+    border-collapse: collapse;
+}
+.contact{
+    color: black;
+    width: 1000px; height: 300px; border: 1px solid black; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+}
+.class-s{
+    color: black;
+    width: 1000px; height: 700px; border: 1px solid black; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+#table1 thead tr :nth-child(1){
+background-color: rgba(94, 60, 44, 0.74);
+}
+#table1 tr:nth-child(1){
+    background-color: rgba(94, 60, 44, 0.74);
+}
+#table2 thead tr:nth-child(2n){
+    background-color: rgba(23, 87, 112, 0.418);
+}
+#table2 thead tr:nth-child(2n+1){
+    background-color: rgb(23, 87, 112, 0.418);
+}
+#table3 thead tr:nth-child(1){
+    background-color: rgb(25, 39, 87);
+}
+#table3 thead tr:nth-child(3n){
+    background-color: rgba(34, 53, 18, 0.541);
+}
+#table3 thead tr:nth-child(2n){
+    background-color: rgb(46, 78, 33);
+}
+#table3 thead tr:nth-child(2n+1){
+    background-color: rgb(46, 78, 33);
+}
+#table3 thead tr:nth-child(3n+1){
+    background-color: rgba(46, 78, 33);
+}
